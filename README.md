@@ -1,0 +1,1 @@
+This repository contains the older version of the Micrium Source Code. This version is not compatible with the new version of IAR workbench. This version is only for the students who will be working in hte Lab machines.
